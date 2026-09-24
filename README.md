@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lunà ♡
+# NHDynamics ♡
 
 ### Software Developer · Open Source · Always Learning
 
