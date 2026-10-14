@@ -2,7 +2,7 @@
 
 # NHDynamics ♡
 
-### Software Developer · Open Source · Always Learning
+### Software Developer ·  Learning
 
 *Building thoughtful software while exploring the technologies behind it.*
 
