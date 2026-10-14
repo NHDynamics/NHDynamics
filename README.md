@@ -30,7 +30,7 @@ My GitHub is a place for projects, experiments, and everything I discover along 
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cs,ts,php,html,js,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,cs,ts,html,js,css&theme=dark" />
 
 <br/><br/>
 
@@ -42,7 +42,7 @@ My GitHub is a place for projects, experiments, and everything I discover along 
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows,vercel,linux&theme=dark" />
 
 </div>
 
