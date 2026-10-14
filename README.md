@@ -16,7 +16,7 @@ I'm a developer passionate about creating **clean, thoughtful and maintainable s
 
 My GitHub is a place for projects, experiments, and everything I discover along the way.
 
-* ✦ Currently working on my **first open-source project**
+* ✦ Currently working on my **projects**
 * ✦ Learning **Java** and **C#**
 * ✦ Interested in **Artificial Intelligence & Cybersecurity**
 * ✦ Exploring **System Design, Cloud & DevOps**
